@@ -1,0 +1,17 @@
+# Virtual environment — never push this
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Scan report files (optional — remove this if you want to push reports)
+*.txt
+
+# VS Code settings
+.vscode/
+
+# Windows files
+Thumbs.db
+desktop.ini
