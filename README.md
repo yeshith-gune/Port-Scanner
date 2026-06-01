@@ -21,3 +21,7 @@ Python · Sockets · TCP/IP · Threading · Banner Grabbing
 
 ## Preview
 ![Screenshot](assets/screenshot1.PNG)
+![Screenshot](assets/screenshot2.PNG)
+![Screenshot](assets/screenshot3.PNG)
+![Screenshot](assets/screenshot4.PNG)
+![Screenshot](assets/screenshot5.PNG)
