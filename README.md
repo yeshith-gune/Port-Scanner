@@ -18,3 +18,6 @@ python scanner.py
 
 ## Tools Used
 Python · Sockets · TCP/IP · Threading · Banner Grabbing
+
+## Preview
+![Screenshot](assets/screenshot1.PNG)
